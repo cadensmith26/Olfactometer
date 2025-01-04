@@ -7,7 +7,7 @@ This was made in LabVIEW version 22.3
 Olfactometer was made using resources acquired from a paper by Burton et al. (2019) titled "A Novel Olfactometer for Efficient
 and Flexible Odorant Delivery"
 
-This code was made with slight changes:
+This code was made to be simple and user friendly for non-complex and less expensive set ups.
 - It was made into a 8 channel olfactometer rather than the published 12 channels.
 - This was made for use with a simple amplifier without a trigger. A trigger could easily be added to have more accurate
  recording at the time of stimulus delivery.
